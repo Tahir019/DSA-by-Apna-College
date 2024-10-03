@@ -1,0 +1,19 @@
+Companies
+      -Service based (TCS, Infosys)
+      -Product based (Microsoft, Google, Amazon)
+
+Service based companies 
+        ---aptitude
+        ---basic programming
+
+Product based companies
+        ---DSA
+
+Mentorship Session
+    -Linkedin
+    -Resume Building
+    -Project Discussion
+    -Off Campus(Platform & Process)
+    -Interview Preparation
+    -Theory Subject
+

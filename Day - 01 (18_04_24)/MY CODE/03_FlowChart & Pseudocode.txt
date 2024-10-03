@@ -1,0 +1,37 @@
+Flowcharts
+    -Flowcharts are diagrams to represent solution of a problem.
+
+Components
+    Start/Exit
+    Input/Output
+    Process
+    Decision
+    Arrow
+
+Sum of two Numbers
+   Start
+   Input a & b
+   sum = a + b
+   print sum 
+   Exit
+
+
+Pseudocode
+
+1. Input a & b 
+2. sum = a + b
+3. print sum 
+4. Exit
+
+Calculate simple Interest
+
+Input  => Principal, P 
+         Rate, R 
+         Time, T 
+
+Output => SI = P*R*T/100
+
+Pseudocode
+1. Input P,R,T
+2. SI = (p*r*t)/100
+3. Print SI 
