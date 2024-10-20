@@ -50,7 +50,7 @@ Max is 20
 ## 🎯 Why Use Functions?
 1. **Avoid Redundancy**: Reduces repetitive code by using a function to handle the same task multiple times.
 2. **Modularity**: Breaks large code into smaller, manageable parts.
-3. **Abstraction**: You don’t need to know how built-in functions work, just how to use them.
+3. **Abstraction**: We don’t need to know how built-in functions work, just how to use them.
 
 ---
 
