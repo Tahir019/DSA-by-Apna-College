@@ -2,7 +2,7 @@
 # Functions in C++: A Beginner-Friendly Guide for Interviews
 
 ## 📌 What is a Function?
-A **function** is a reusable block of code designed to perform a specific task. Instead of writing the same code multiple times, you can simply call the function whenever needed.
+A **function** is a reusable block of code designed to perform a specific task. Instead of writing the same code multiple times, we can simply call the function whenever needed.
 
 In simple terms, a function:
 - Takes input (parameters).
