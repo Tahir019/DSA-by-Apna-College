@@ -137,9 +137,8 @@ inline int square(int x) {
 }
 ```
 - **Inline:** Directly placing the code of the function where it is called, avoiding overhead.
-```
-
 ---
+
 
 ## Conclusion
 
